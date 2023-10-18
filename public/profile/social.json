@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/akashjakkampudi/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/akash9392"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:akash.jakkampudi@gmail.com"
+        }
+    ]
+}

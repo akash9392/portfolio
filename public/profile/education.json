@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Sep 2021 - Jun 2025",
+            "cardTitle": "B.Tech, Computer Science Specialization in Artificial Intelligence and Machine Learning",
+            "cardSubtitle":"Vellore Institute Of Technology,A.P",
+            "cardDetailedText": "CGPA - 8.87",
+            "icon" : {
+                "src": "images/education/vitclg.png"
+            }
+        },
+        {
+            "title": "Jun 2018 - July 2020",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Narayana Junior College,Guntur",
+            "cardDetailedText": "marks : 94.5%"
+        }
+    ]
+}
